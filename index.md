@@ -18,31 +18,31 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 | Time         | Presenter                       | Talk Title                                   |
 |--------------|---------------------------------|----------------------------------------------|
 |08:00 - 08:30 | [Olivier Stasse](#stasse)       | SLAM and motion generation for Talos torque controlled robot |
-|08:30 - 09:00 | [Steve Tonneau](#steve)         | Interactive multi contact planning algorithms for Talos |
+|08:30 - 09:00 | [Jemin Hwangbo](#jemin) | TBA |
 |09:00 - 09:30 | [Adria Roig](#adria)            | Talos software stack upgrades and progress on whole body control |
 |09:30 - 10:00 | [Vladimir Ivan](#vladimir)      | Talos use case: Planning jumping motion using direct transcription |
 |--------------|---------------------------------|----------------------------------------------|
 |10:00 - 10:30 |Coffee break                     |                                              |
 |--------------|---------------------------------|----------------------------------------------|
-|10:30 - 11:00 | [Jean-Baptiste Mouret and Serena Ivaldi](#jean) | Whole-body teleoperation and online, data-efficient learning of bad configurationsTalk #4 |
+|10:30 - 11:00 | [Jean-Baptiste Mouret and Serena Ivaldi](#jean) | Whole-body teleoperation and online, data-efficient learning of bad configurations |
 |11:30 - 12:00 | [Tadej Petric](#tadej) | Humanoids and physical human-robot interaction - learning by switching roles |
-|12:00 - 12:30 | [Alexander Werner](#alexander) | Improving joint torque control performance and effects on whole body control |
+|12:00 - 12:30 | [Steve Tonneau](#steve)         | Interactive multi contact planning algorithms for Talos |
 |--------------|---------------------------------|----------------------------------------------|
 |12:30 - 13:30 | Lunch break                 
 |--------------|---------------------------------|----------------------------------------------|
-|13:30         | Lightning talk #1               | 
-|13:35         | Lightning talk #2
-|13:40         | Lightning talk #3
+|13:30         | Lightning talk #1               | [Olivier Stasse](#stasse)
+|13:35         | Lightning talk #2               | [Jemin Hwangbo](#jemin)
+|13:40         | Lightning talk #3               | [Adria Roig](#adria)
 |13:45         | Q&A / Coffee & Snacks
 |
-|13:55         | Lightning talk #4
-|14:00         | Lightning talk #5
-|14:05         | Lightning talk #6
+|13:55         | Lightning talk #4               | [Vladimir Ivan](#vladimir)
+|14:00         | Lightning talk #5               | [Jean-Baptiste Mouret and Serena Ivaldi](#jean)
+|14:05         | Lightning talk #6               | [Tadej Petric](#tadej)
 |14:10         | Q&A / Coffee & Snacks |
 |
-|14:20         | Lightning talk #7
-|14:25         | Lightning talk #8
-|14:30         | Lightning talk #9
+|14:20         | Lightning talk #7               | [Steve Tonneau](#steve)
+|14:25         | Lightning talk #8               | [Alexander Werner](#alexander)
+|14:30         | Lightning talk #9               | [Nikolaos Tsagarakis](#nikolaos)
 |14:40         | Q&A / Coffee & Snacks |
 |
 |14:50         | Lightning talk #10
@@ -51,7 +51,7 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 |
 |15:15 - 15:45 | Panel discussion | Technical readiness of human-scale Humanoids
 |
-|16:00 - 16:30 | [Jemin Hwangbo](#jemin) | TBA |
+|16:00 - 16:30 | [Alexander Werner](#alexander) | Improving joint torque control performance and effects on whole body control |
 |16:30 - 17:00 | [Nikolaos Tsagarakis](#nikolaos) | Torque Control Actuation for Humanoid Robotics |
 |17:00 - 17:30 | [Enrico Mingo](#enrico) | TBA |
 |
