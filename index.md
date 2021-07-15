@@ -1,9 +1,13 @@
 Humanoids 2020 Workshop: Talos: Status & Progress
 =================================================
 
+<img align="left" alt="Talos" src="uw_talos.jpeg" style="height: 10%; margin: 1%;">
+<img align="left" alt="Talos" src="inria_talos.jpg" style="height: 10%; margin: 1%;">
+
+
 Organizers:
 * Alexander Werner, University of Waterloo
-* Olivier Stasse, LAAS
+* Olivier Stasse, LAAS-CNRS
 
 ![talos-ic-here](talos_grooup.png)
 
@@ -60,12 +64,12 @@ Note: The workshop core time is `13:30-13:45` - see [here](https://humanoids-202
 |18:00 - 18:30: | [Danielle Pucci|(#danielle) | TBA |
 
 
-## <a name="stasse"></a> Olivier Stasse (LAAS): SLAM and motion generation for Talos torque controlled robot
+## <a name="stasse"></a> Olivier Stasse (LAAS-CNRS): SLAM and motion generation for Talos torque controlled robot
 <img align="left" alt="Olivier Stasse" src="olivier.jpeg" style="max-width: 25%; margin: 2%;">
 
 
 ## <a name="steve"></a> Steve Tonneau (University of Edinburgh): Interactive multi contact planning algorithms for Talos
-<img align="left" alt="Steve Tonnau" src="steve.jpeg" style="max-width: 25%; margin: 2%;">
+<img align="left" alt="Steve Tonnau" src="steve.png" style="max-width: 25%; margin: 2%;">
 
 ## <a name="adria"></a> Adrià Roig (PAL Robotics): Talos software stack upgrades and progress on whole body control
 <img align="left" alt="Adria Roig" src="adria.jpeg" style="max-width: 25%; margin: 2%;">
@@ -89,7 +93,7 @@ Humanoid robots still have the shortcoming of limited ability to observe and ada
 Abstract TBA
 
 ## <a name="jemin"></a>  Jemin Hwangbo (KAIST): TBA
-<img align="left" alt="Jemin Hwangbo" src="jemin.jpeg" style="max-width: 25%; margin: 2%;">
+<img align="left" alt="Jemin Hwangbo" src="jemin.webp" style="max-width: 25%; margin: 2%;">
 Abstract TBA
 
 ##  <a name="nikolaos"></a> Nikolaos Tsagarakis (IIT): Torque Control Actuation for Humanoid Robotics
