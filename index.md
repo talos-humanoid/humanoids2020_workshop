@@ -8,27 +8,28 @@ Organizers:
 * Olivier Stasse, LAAS-CNRS
 
 # Workshop objectives
-The goal of this workshop is to exchange information about control approaches for humanoid robots,  with the torque controlled robots such as the Talos platform in mind. Starting from a report on the experimentally discovered abilities of the hardware, further needed improvements will be discussed. To put this in context, speakers who work on other humanoid platforms have been invited. The objective here is to describe and compare viable ways to improve dynamic capabilities of this robot. Building on this discourse about structure and actuators, talks about whole body control control solutions are presented. Again, an open discussion in this workshop about particular topic will help the community to compare approaches and their properties. To complete the picture of progress on the Talos platform, talks about integrated contact planning and teleoperation are on the agenda. There are now 6 Talos robots in the world (PAL, LAAS, IJS, Waterloo, INRIA, Edinburgh) and this workshop will initiate further collaboration.
+This workshop aims to facilitate the exchange of information about control approaches for humanoid robots, with the torque controlled robots such as the Talos platform in mind. Starting from a report on the experimentally discovered abilities of the Talos hardware, further needed improvements will be discussed. To put this in context, speakers who work on other humanoid platforms have been invited and will share their perspective. The objective here is to describe and compare viable ways to improve dynamic capabilities of this class of robots. The topic will be addressed in the talks and in the panel discussion.
 
+There are now 6 Talos robots in the world (PAL, LAAS, IJS, Waterloo, INRIA, Edinburgh) and this workshop will initiate further collaboration. Even if you are not working in one of the labs, we are very happy to discuss possible collaborations.
 
 # Agenda
 
-Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-2020.org/conference-program/index.html). For this workshop this timeslot contain all lightning (5 minute) summary talks to give everybody an overview. The full-lengths talks are distributed throughout the day. Recordings will be provided.
+Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-2020.org/conference-program/index.html). For this workshop this timeslot contains all lightning (5 minute) summary talks to give everybody an overview. The full-lengths talks are distributed throughout the day. Recordings will be provided.
 
 | Time         | Presenter                       | Talk Title                                   |
 |--------------|---------------------------------|----------------------------------------------|
 |08:00 - 08:30 | [Olivier Stasse](#stasse)       | SLAM and motion generation for Talos torque controlled robot |
-|08:30 - 09:00 | [Jemin Hwangbo](#jemin) | TBA |
+|08:30 - 09:00 | [Jemin Hwangbo](#jemin)         | Learning agile and dynamic motor skills for legged robots |
 |09:00 - 09:30 | [Adria Roig](#adria)            | Talos software stack upgrades and progress on whole body control |
 |09:30 - 10:00 | [Vladimir Ivan](#vladimir)      | Talos use case: Planning jumping motion using direct transcription |
 |--------------|---------------------------------|----------------------------------------------|
 |10:00 - 10:30 |Coffee break                     |                                              |
 |--------------|---------------------------------|----------------------------------------------|
 |10:30 - 11:00 | [Jean-Baptiste Mouret and Serena Ivaldi](#jean) | Whole-body teleoperation and online, data-efficient learning of bad configurations |
-|11:30 - 12:00 | [Tadej Petric](#tadej) | Humanoids and physical human-robot interaction - learning by switching roles |
-|12:00 - 12:30 | [Steve Tonneau](#steve)         | Interactive multi contact planning algorithms for Talos |
+|11:00 - 11:30 | [Tadej Petric](#tadej) | Humanoids and physical human-robot interaction - learning by switching roles |
+|11:30 - 12:00 | [Steve Tonneau](#steve)         | Interactive multi contact planning algorithms for Talos |
 |--------------|---------------------------------|----------------------------------------------|
-|12:30 - 13:30 | Lunch break                 
+|12:00 - 13:30 | Lunch break                 
 |--------------|---------------------------------|----------------------------------------------|
 |13:30         | Lightning talk #1               | [Olivier Stasse](#stasse)
 |13:35         | Lightning talk #2               | [Jemin Hwangbo](#jemin)
