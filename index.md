@@ -90,7 +90,8 @@ Humanoid robots still have the shortcoming of limited ability to observe and ada
 ## <a name="jemin"></a>  Jemin Hwangbo (KAIST): TBA
 <img align="left" alt="Jemin Hwangbo" src="jemin.jpeg" style="max-width: 25%;">
 
-##  <a name="nikoloas"></a> Nikolaos Tsagarakis (IIT): Torque Control Actuation for Humanoid Robotics
+##  <a name="nikolaos"></a> Nikolaos Tsagarakis (IIT): Torque Control Actuation for Humanoid Robotics
+<img align="left" alt="Nikolaos Tsagarakis" src="nikolaos.jpeg" style="max-width: 25%;">
 ##  <a name="enrico"></a> Enrico Mingo (IIT): TBA
 ##  <a name="danielle"></a> Daniele Pucci (IIT): TBA
 
