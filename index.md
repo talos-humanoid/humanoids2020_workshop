@@ -1,15 +1,11 @@
 Humanoids 2020 Workshop: Talos: Status & Progress
 =================================================
 
-<img align="left" alt="Talos" src="uw_talos.jpeg" style="height: 10%; margin: 1%;">
-<img align="left" alt="Talos" src="inria_talos.jpg" style="height: 10%; margin: 1%;">
-
+<img align="center" alt="Talos Family" src="talos_panel.png" style="max-width: 100%; margin: 1%;">
 
 Organizers:
 * Alexander Werner, University of Waterloo
 * Olivier Stasse, LAAS-CNRS
-
-![talos-ic-here](talos_grooup.png)
 
 # Workshop objectives
 The goal of this workshop is to exchange information about control approaches for humanoid robots,  with the torque controlled robots such as the Talos platform in mind. Starting from a report on the experimentally discovered abilities of the hardware, further needed improvements will be discussed. To put this in context, speakers who work on other humanoid platforms have been invited. The objective here is to describe and compare viable ways to improve dynamic capabilities of this robot. Building on this discourse about structure and actuators, talks about whole body control control solutions are presented. Again, an open discussion in this workshop about particular topic will help the community to compare approaches and their properties. To complete the picture of progress on the Talos platform, talks about integrated contact planning and teleoperation are on the agenda. There are now 6 Talos robots in the world (PAL, LAAS, IJS, Waterloo, INRIA, Edinburgh) and this workshop will initiate further collaboration.
