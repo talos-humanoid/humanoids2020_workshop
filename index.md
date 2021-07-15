@@ -73,39 +73,56 @@ Abstract is coming
 </div>
 
 ## <a name="adria"></a> Adrià Roig (PAL Robotics): Talos software stack upgrades and progress on whole body control
+<div style="height: auto; overflow: auto;">
 <img align="left" alt="Adria Roig" src="adria.jpeg" style="max-width: 25%; margin: 2%;">
 TALOS is a humanoid robot, designed in 2017 by PAL Robotics, that is present in many universities nowadays. This robot has been designed with the objective to perform industrial applications in the Factory of the Futures, as well as to interact in a real human environment. For this purpose, it is equipped with torque sensors in all joints, which enables powerful sensing and multi-contact motions. The closed-loop torque control can be used for whole-body control inverse dynamics and safe interaction with the environment. The motors of this robot can carry out fast movements and handle weights of 6 kg with an outstretched arm. The Ethercat communication allows running ROS control at 2KHz making it the perfect platform for researchers. In this presentation, we will present some of the latest developments of this platform which include WB-MPC and walking in uneven terrain.
+</div>
 
 
 ## <a name="vladimir"></a> Vladimir Ivan (University of Edinburgh): Talos use case: Planning jumping motion using direct transcription
+<div style="height: auto; overflow: auto;">
 <img align="left" alt="Vladimir Ivan" src="vladimir.webp" style="max-width: 25%; margin: 2%;">
 In this session we’ll report on the motion planning work that enabled us to execute jumping motion on the Talos robot. To achieve this, we formulated the problem using direct transcription as a sparse non-linear programming problem. We exploited the rigid body dynamics model of the robot and modelled the dynamic defect constraints using inverse dynamics as opposed to deriving the constraint from forward dynamics equations. The planned trajectories consist of feed forward torque and robot state reference trajectories. We implemented a torque controller that tracks the robot state with PD feedback and inputs the reference torque as a feed forward signal. This enabled us to execute the first jumping motion achieved on the Talos robot.
+</div>
 
 ## <a name="jean"></a> Jean-Baptiste Mouret and Serena Ivaldi (INRIA): Whole-body teleoperation and online, data-efficient learning of bad configurations
+<div style="height: auto; overflow: auto;">
 <img align="left" alt="Jean-Baptiste Mouret" src="jean.jpg" style="max-width: 12%; margin: 2%;">
 <img align="left" alt="Serena Ivaldi" src="serena.jpeg" style="max-width: 12%; margin: 2%;">
 Abstract TBA
+</div>
 
 ## <a name="tadej"></a> Tadej Petric (IJS): Humanoids and physical human-robot interaction - learning by switching roles
+<div style="height: auto; overflow: auto;">
 <img align="left" alt="Tadej Petrič" src="tadej.jpg" style="max-width: 25%; margin: 2%;">
 Humanoid robots still have the shortcoming of limited ability to observe and adapt to human dynamics in physical human-robot collaboration. This leads to inefficient collaboration, skill transfer, and learning. In this talk, I will present how skill transfer can be achieved by switching the roles of the assistant agent and the assisted agent. Introducing such a strategy into the concept of learning from demonstrations (LfD) accelerates the learning process by providing a richer set of demonstrations with personalization capabilities. By including human-human, human-robot, and robot-human behaviors, we can gather a wider range of sensory information including force and motion trajectories. As an encoding strategy, we consider a novel holistic approach to encode the behavior of the two agents in a joint model that is used within regression and model predictive control strategies for reaction and anticipation of the agent behaviors.
+</div>
 
 ## <a name="alexander"></a> Alexander Werner (University of Waterloo): Improving joint torque control performance and effects on whole body control
+<div style="height: auto; overflow: auto;">
 <img align="left" alt="Alexander Werner" src="alexander.png" style="max-width: 25%; margin: 2%;">
 Abstract TBA
+</div>
 
 ## <a name="jemin"></a>  Jemin Hwangbo (KAIST): TBA
+<div style="height: auto; overflow: auto;">
 <img align="left" alt="Jemin Hwangbo" src="jemin.webp" style="max-width: 25%; margin: 2%;">
 Abstract TBA
+</div>
 
 ##  <a name="nikolaos"></a> Nikolaos Tsagarakis (IIT): Torque Control Actuation for Humanoid Robotics
+<div style="height: auto; overflow: auto;">
 <img align="left" alt="Nikolaos Tsagarakis" src="nikolaos.jpeg" style="max-width: 25%; margin: 2%;">
 Abstract TBA
+</div>
 
 ##  <a name="enrico"></a> Enrico Mingo (IIT): TBA
+<div style="height: auto; overflow: auto;">
+</div>
 
 
 ##  <a name="danielle"></a> Daniele Pucci (IIT): TBA
-
+<div style="height: auto; overflow: auto;">
+</div>
 
 
