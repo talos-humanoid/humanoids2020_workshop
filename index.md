@@ -26,8 +26,9 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 |10:00 - 10:30 |Coffee break                     |                                              |
 |--------------|---------------------------------|----------------------------------------------|
 |10:30 - 11:00 | [Jean-Baptiste Mouret and Serena Ivaldi](#jean) | Whole-body teleoperation and online, data-efficient learning of bad configurations |
-|11:00 - 11:30 | [Tadej Petric](#tadej) | Humanoids and physical human-robot interaction - learning by switching roles |
+|11:00 - 11:30 | [Nikolaos Tsagarakis](#nikolaos) | Torque Control Actuation for Humanoid Robotics |
 |11:30 - 12:00 | [Steve Tonneau](#steve)         | Interactive multi contact planning algorithms for Talos |
+|12:00 - 12:30 | [Tadej Petric](#tadej) | Humanoids and physical human-robot interaction - learning by switching roles |
 |--------------|---------------------------------|----------------------------------------------|
 |12:00 - 13:30 | Lunch break                 
 |--------------|---------------------------------|----------------------------------------------|
@@ -53,7 +54,6 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 |15:15 - 15:45 | Panel discussion | Technical readiness of human-scale Humanoids
 |
 |16:00 - 16:30 | [Alexander Werner](#alexander) | Improving joint torque control performance and effects on whole body control |
-|16:30 - 17:00 | [Nikolaos Tsagarakis](#nikolaos) | Torque Control Actuation for Humanoid Robotics |
 |17:00 - 17:30 | [Enrico Mingo](#enrico) | TBA |
 |
 |17:30 - 18:00 | Coffee break |
