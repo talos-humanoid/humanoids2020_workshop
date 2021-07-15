@@ -64,12 +64,12 @@ Note: The workshop core time is `13:30-13:45` - see [here](https://humanoids-202
 <img align="left" alt="Olivier Stasse" src="olivier.jpeg" style="max-width: 25%; margin: 2%;">
 Abstract is coming<br>
 
-
+<hr>
 ## <a name="steve"></a> Steve Tonneau (University of Edinburgh): Interactive multi contact planning algorithms for Talos
 <img align="left" alt="Steve Tonnau" src="steve.png" style="max-width: 25%; margin: 2%;">
 Abstract is coming<br>
 
-
+<hr>
 ## <a name="adria"></a> Adrià Roig (PAL Robotics): Talos software stack upgrades and progress on whole body control
 <img align="left" alt="Adria Roig" src="adria.jpeg" style="max-width: 25%; margin: 2%;">
 TALOS is a humanoid robot, designed in 2017 by PAL Robotics, that is present in many universities nowadays. This robot has been designed with the objective to perform industrial applications in the Factory of the Futures, as well as to interact in a real human environment. For this purpose, it is equipped with torque sensors in all joints, which enables powerful sensing and multi-contact motions. The closed-loop torque control can be used for whole-body control inverse dynamics and safe interaction with the environment. The motors of this robot can carry out fast movements and handle weights of 6 kg with an outstretched arm. The Ethercat communication allows running ROS control at 2KHz making it the perfect platform for researchers. In this presentation, we will present some of the latest developments of this platform which include WB-MPC and walking in uneven terrain.
