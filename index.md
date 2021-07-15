@@ -13,7 +13,7 @@ The goal of this workshop is to exchange information about control approaches fo
 
 # Agenda
 
-Note: The workshop core time is `13:30-13:45` - see [here](https://humanoids-2020.org/conference-program/index.html).
+Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-2020.org/conference-program/index.html). For this workshop this timeslot contain all lightning (5 minute) summary talks to give everybody an overview. The full-lengths talks are distributed throughout the day. Recordings will be provided.
 
 | Time         | Presenter                       | Talk Title                                   |
 |--------------|---------------------------------|----------------------------------------------|
@@ -30,7 +30,7 @@ Note: The workshop core time is `13:30-13:45` - see [here](https://humanoids-202
 |--------------|---------------------------------|----------------------------------------------|
 |12:30 - 13:30 | Lunch break                 
 |--------------|---------------------------------|----------------------------------------------|
-|13:30         | Lightning talk #1
+|13:30         | Lightning talk #1               | 
 |13:35         | Lightning talk #2
 |13:40         | Lightning talk #3
 |13:45         | Q&A / Coffee & Snacks
@@ -62,7 +62,7 @@ Note: The workshop core time is `13:30-13:45` - see [here](https://humanoids-202
 
 ## <a name="stasse"></a> Olivier Stasse (LAAS-CNRS): SLAM and motion generation for Talos torque controlled robot
 <img align="left" alt="Olivier Stasse" src="olivier.jpeg" style="max-width: 25%; margin: 2%;">
-Abstract is coming<br>
+<div style="display: block;">Abstract is coming</div>
 
 ## <a name="steve"></a> Steve Tonneau (University of Edinburgh): Interactive multi contact planning algorithms for Talos
 <img align="left" alt="Steve Tonnau" src="steve.png" style="max-width: 25%; margin: 2%;">
