@@ -67,6 +67,11 @@ Abstract is coming
 <div style="height: auto; overflow: auto;">
 <img align="left" alt="Steve Tonnau" src="steve.png" style="max-width: 25%; margin: 2%;">
 Abstract is coming
+
+<video style="width: 100%;" controls preload="metadata">
+        <source src="Steve_Tonneau.mp4" type='video/mp4' />
+</video>
+
 </div>
 
 ## <a name="adria"></a> Adrià Roig (PAL Robotics): Talos software stack upgrades and progress on whole body control
