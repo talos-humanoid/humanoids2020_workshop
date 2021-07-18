@@ -48,7 +48,7 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 |14:30         | Lightning talk #9               | [Nikolaos Tsagarakis](#nikolaos)
 |14:40         | Q&A / Coffee & Snacks |
 |
-|14:50         | Lightning talk #10              | [Daniele Pucci][#daniele) |
+|14:50         | Lightning talk #10              | [Daniele Pucci](#daniele) |
 |14:55         | Lightning talk #11
 |15:00         | Q&A / Coffee & Snacks |
 |
