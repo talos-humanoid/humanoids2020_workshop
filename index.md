@@ -69,6 +69,7 @@ Abstract is coming
 Abstract is coming
 
 <video style="width: 100%;" controls preload="metadata">
+	<!-- TODO: webm -->
         <source src="Steve_Tonneau.mp4" type='video/mp4' />
 </video>
 
@@ -78,6 +79,12 @@ Abstract is coming
 <div style="height: auto; overflow: auto;">
 <img align="left" alt="Adria Roig" src="adria.jpeg" style="max-width: 25%; margin: 2%;">
 TALOS is a humanoid robot, designed in 2017 by PAL Robotics, that is present in many universities nowadays. This robot has been designed with the objective to perform industrial applications in the Factory of the Futures, as well as to interact in a real human environment. For this purpose, it is equipped with torque sensors in all joints, which enables powerful sensing and multi-contact motions. The closed-loop torque control can be used for whole-body control inverse dynamics and safe interaction with the environment. The motors of this robot can carry out fast movements and handle weights of 6 kg with an outstretched arm. The Ethercat communication allows running ROS control at 2KHz making it the perfect platform for researchers. In this presentation, we will present some of the latest developments of this platform which include WB-MPC and walking in uneven terrain.
+
+<video style="width: 100%;" controls preload="metadata">
+	<!-- TODO: webm -->
+        <source src="Adria_Roig.mp4" type='video/mp4' />
+</video>
+
 </div>
 
 
