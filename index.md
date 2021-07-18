@@ -7,6 +7,8 @@ Organizers:
 * Alexander Werner, University of Waterloo
 * Olivier Stasse, LAAS-CNRS
 
+# Join the workshop: It's on a WebRTC platform accessible here: <a href="https://spatial.chat/s/talos">https://spatial.chat/s/talos<a>
+
 # Workshop objectives
 This workshop aims to facilitate the exchange of information about control approaches for humanoid robots, with the torque controlled robots such as the Talos platform in mind. Starting from a report on the experimentally discovered abilities of the Talos hardware, further needed improvements will be discussed. To put this in context, speakers who work on other humanoid platforms have been invited and will share their perspective. The objective here is to describe and compare viable ways to improve dynamic capabilities of this class of robots. The topic will be addressed in the talks and in the panel discussion.
 
