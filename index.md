@@ -13,6 +13,7 @@ This workshop aims to facilitate the exchange of information about control appro
 There are now 6 Talos robots in the world (PAL, LAAS, IJS, Waterloo, INRIA, Edinburgh) and this workshop will initiate further collaboration. Even if you are not working in one of the labs, we are very happy to discuss possible collaborations.
 
 # Agenda
+All Times given here are in `GMT+2` or `CET`.
 
 Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-2020.org/conference-program/index.html). For this workshop this timeslot contains all lightning (5 minute) summary talks to give everybody an overview. The full-lengths talks are distributed throughout the day. Recordings will be provided.
 
@@ -21,12 +22,12 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 |08:00 - 08:30 | [Olivier Stasse](#stasse)       | SLAM and motion generation for Talos torque controlled robot |
 |08:30 - 09:00 | [Jemin Hwangbo](#jemin)         | Learning agile and dynamic motor skills for legged robots |
 |09:00 - 09:30 | [Adria Roig](#adria)            | Talos software stack upgrades and progress on whole body control |
-|09:30 - 10:00 | [Vladimir Ivan](#vladimir)      | Talos use case: Planning jumping motion using direct transcription |
+|09:30 - 10:00 | [Nikolaos Tsagarakis](#nikolaos) | Torque Control Actuation for Humanoid Robotics |
 |--------------|---------------------------------|----------------------------------------------|
 |10:00 - 10:30 |Coffee break                     |                                              |
 |--------------|---------------------------------|----------------------------------------------|
 |10:30 - 11:00 | [Jean-Baptiste Mouret and Serena Ivaldi](#jean) | Whole-body teleoperation and online, data-efficient learning of bad configurations |
-|11:00 - 11:30 | [Nikolaos Tsagarakis](#nikolaos) | Torque Control Actuation for Humanoid Robotics |
+|11:00 - 11:30 | [Vladimir Ivan](#vladimir)      | Talos use case: Planning jumping motion using direct transcription |
 |11:30 - 12:00 | [Steve Tonneau](#steve)         | Interactive multi contact planning algorithms for Talos |
 |12:00 - 12:30 | [Tadej Petric](#tadej) | Humanoids and physical human-robot interaction - learning by switching roles |
 |--------------|---------------------------------|----------------------------------------------|
@@ -54,11 +55,6 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 |15:15 - 15:45 | Panel discussion | Technical readiness of human-scale Humanoids
 |
 |16:00 - 16:30 | [Alexander Werner](#alexander) | Improving joint torque control performance and effects on whole body control |
-|17:00 - 17:30 | [Enrico Mingo](#enrico) | TBA |
-|
-|17:30 - 18:00 | Coffee break |
-|
-|18:00 - 18:30: | [Danielle Pucci](#danielle) | TBA |
 
 
 ## <a name="stasse"></a> Olivier Stasse (LAAS-CNRS): SLAM and motion generation for Talos torque controlled robot
@@ -99,6 +95,13 @@ Abstract TBA
 Humanoid robots still have the shortcoming of limited ability to observe and adapt to human dynamics in physical human-robot collaboration. This leads to inefficient collaboration, skill transfer, and learning. In this talk, I will present how skill transfer can be achieved by switching the roles of the assistant agent and the assisted agent. Introducing such a strategy into the concept of learning from demonstrations (LfD) accelerates the learning process by providing a richer set of demonstrations with personalization capabilities. By including human-human, human-robot, and robot-human behaviors, we can gather a wider range of sensory information including force and motion trajectories. As an encoding strategy, we consider a novel holistic approach to encode the behavior of the two agents in a joint model that is used within regression and model predictive control strategies for reaction and anticipation of the agent behaviors.
 </div>
 
+
+##  <a name="nikolaos"></a> Nikolaos Tsagarakis (IIT): Humanoid Robotics Progress and Challenges @ IIT-HHCM
+<div style="height: auto; overflow: auto;">
+<img align="left" alt="Nikolaos Tsagarakis" src="nikolaos.jpeg" style="max-width: 25%; margin: 2%;">
+The talk will provide an overview of the humanoids developments within the Humanoid and Human Mechatronics Lab at IIT, introducing the mechatronics and control approaches adopted in the development of a series of humanoid prototypes from the early COMAN to WALK-MAN and more recently to COMAN+ and eventually to CENTAURO semi-humanoid robots. The talk will include highlights on the actuation development of compliant and torque control joints, the overall design principles of the humanoid robots and finally the control tools and implementations and how these were evolved over the years towards the most recent platform in the lab. Current high level challenges will be also discussed. 
+</div>
+
 ## <a name="alexander"></a> Alexander Werner (University of Waterloo): Improving joint torque control performance and effects on whole body control
 <div style="height: auto; overflow: auto;">
 <img align="left" alt="Alexander Werner" src="alexander.png" style="max-width: 25%; margin: 2%;">
@@ -110,20 +113,3 @@ Abstract TBA
 <img align="left" alt="Jemin Hwangbo" src="jemin.webp" style="max-width: 25%; margin: 2%;">
 Abstract TBA
 </div>
-
-##  <a name="nikolaos"></a> Nikolaos Tsagarakis (IIT): Torque Control Actuation for Humanoid Robotics
-<div style="height: auto; overflow: auto;">
-<img align="left" alt="Nikolaos Tsagarakis" src="nikolaos.jpeg" style="max-width: 25%; margin: 2%;">
-Abstract TBA
-</div>
-
-##  <a name="enrico"></a> Enrico Mingo (IIT): TBA
-<div style="height: auto; overflow: auto;">
-</div>
-
-
-##  <a name="danielle"></a> Daniele Pucci (IIT): TBA
-<div style="height: auto; overflow: auto;">
-</div>
-
-
