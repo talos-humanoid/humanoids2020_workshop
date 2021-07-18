@@ -48,13 +48,14 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 |14:30         | Lightning talk #9               | [Nikolaos Tsagarakis](#nikolaos)
 |14:40         | Q&A / Coffee & Snacks |
 |
-|14:50         | Lightning talk #10
+|14:50         | Lightning talk #10              | [Daniele Pucci][#daniele) |
 |14:55         | Lightning talk #11
 |15:00         | Q&A / Coffee & Snacks |
 |
 |15:15 - 15:45 | Panel discussion | Technical readiness of human-scale Humanoids
 |
-|16:00 - 16:30 | [Alexander Werner](#alexander) | Improving joint torque control performance and effects on whole body control |
+|16:00 - 16:30 | [Daniele Pucci](#daniele) | iCub recent developments in motor control, human-physical interaction, and aerial humanoid robotics |
+|16:30 - 17:00 | [Alexander Werner](#alexander) | Improving joint torque control performance and effects on whole body control |
 
 
 ## <a name="stasse"></a> Olivier Stasse (LAAS-CNRS): SLAM and motion generation for Talos torque controlled robot
@@ -63,11 +64,10 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 Abstract is coming
 </div>
 
-## <a name="steve"></a> Steve Tonneau (University of Edinburgh): Interactive multi contact planning algorithms for Talos
+## <a name="steve"></a> Steve Tonneau (University of Edinburgh): Motion planning algorithms running on Talos
 <div style="height: auto; overflow: auto;">
 <img align="left" alt="Steve Tonnau" src="steve.png" style="max-width: 25%; margin: 2%;">
-Abstract is coming
-
+In this talk Steve will present motion planning algorithms that are used for locomotion on the Talos robot. The talk will focus on two specific contributions: first, LEAS, a reinforcement learning framework for automatically planning guide paths for Talos in constrained environments; second, SL1M (pronounced slim), a footstep planner that can be used in a reactive manner in challenging environments.
 <video style="width: 100%;" controls preload="metadata">
 	<!-- TODO: webm -->
         <source src="Steve_Tonneau.mp4" type='video/mp4' />
@@ -113,6 +113,13 @@ Humanoid robots still have the shortcoming of limited ability to observe and ada
 <img align="left" alt="Nikolaos Tsagarakis" src="nikolaos.jpeg" style="max-width: 25%; margin: 2%;">
 The talk will provide an overview of the humanoids developments within the Humanoid and Human Mechatronics Lab at IIT, introducing the mechatronics and control approaches adopted in the development of a series of humanoid prototypes from the early COMAN to WALK-MAN and more recently to COMAN+ and eventually to CENTAURO semi-humanoid robots. The talk will include highlights on the actuation development of compliant and torque control joints, the overall design principles of the humanoid robots and finally the control tools and implementations and how these were evolved over the years towards the most recent platform in the lab. Current high level challenges will be also discussed. 
 </div>
+
+## <a name="daniele"></a> Daniele Pucchi (IIT): iCub recent developments in motor control, human-physical interaction, and aerial humanoid robotics 
+<div style="height: auto; overflow: auto;">
+<img align="left" alt="Danielle Pucci" src="daniele.jpeg" style="max-width: 25%; margin: 2%;">
+ This talk presents the recent advances of the iCub humanoid robot, the longstanding reference platform developed at the Italian Institute of Technology. In particular, the talk will present the control architectures that enable the iCub to locomote, physical interact with a human being, and also to fly. In this perspective, the design of the iRonCub - the first jet-powered flying humanoid robot - will be presented. 
+</div>
+
 
 ## <a name="alexander"></a> Alexander Werner (University of Waterloo): Improving joint torque control performance and effects on whole body control
 <div style="height: auto; overflow: auto;">
