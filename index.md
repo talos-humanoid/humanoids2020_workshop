@@ -57,7 +57,7 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 |15:15 - 15:45 | Panel discussion | Technical readiness of human-scale Humanoids
 |
 |16:00 - 16:30 | [Daniele Pucci](#daniele) | iCub recent developments in motor control, human-physical interaction, and aerial humanoid robotics |
-|16:30 - 17:00 | [Alexander Werner](#alexander) | Improving joint torque control performance and effects on whole body control |
+|16:30 - 17:00 | [Alexander Werner](#alexander) |  Talos use case: Teleoperation with Force Feedback |
 
 
 ## <a name="stasse"></a> Olivier Stasse (LAAS-CNRS): SLAM and motion generation for Talos torque controlled robot
@@ -123,14 +123,14 @@ The talk will provide an overview of the humanoids developments within the Human
 </div>
 
 
-## <a name="alexander"></a> Alexander Werner (University of Waterloo): Improving joint torque control performance and effects on whole body control
+## <a name="alexander"></a> Alexander Werner (University of Waterloo): Talos use case: Teleoperation with Force Feedback
 <div style="height: auto; overflow: auto;">
 <img align="left" alt="Alexander Werner" src="alexander.png" style="max-width: 25%; margin: 2%;">
-Abstract TBA
+To improve the usefulness of Talos e.g. in Human-Robot Interaction scenarios and to evaluate the robot together with our whole body controller, we have build a teleoperation setup with force feedback. This setup illustrates the capabilities and the versatility of the Talos platform. 
 </div>
 
-## <a name="jemin"></a>  Jemin Hwangbo (KAIST): TBA
+## <a name="jemin"></a>  Jemin Hwangbo (KAIST): Learning Agile and Dynamic Motor Skills for Legged Robots
 <div style="height: auto; overflow: auto;">
 <img align="left" alt="Jemin Hwangbo" src="jemin.webp" style="max-width: 25%; margin: 2%;">
-Abstract TBA
+Author Abstract TBA. Jemin will present about the ideas behind the paper: Learning Agile and Dynamic Motor Skills for Legged Robots
 </div>
