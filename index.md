@@ -63,7 +63,10 @@ Note: The workshop core time is `13:30-15:45` - see [here](https://humanoids-202
 ## <a name="stasse"></a> Olivier Stasse (LAAS-CNRS): SLAM and motion generation for Talos torque controlled robot
 <div style="height: auto; overflow: auto;">
 <img align="left" alt="Olivier Stasse" src="olivier.jpeg" style="max-width: 25%; margin: 2%;">
-Abstract is coming
+<video style="width: 100%;" controls preload="metadata">
+	<!-- TODO: webm -->
+        <source src="Olivier_Stasse.mp4" type='video/mp4' />
+</video>
 </div>
 
 ## <a name="steve"></a> Steve Tonneau (University of Edinburgh): Motion planning algorithms running on Talos
